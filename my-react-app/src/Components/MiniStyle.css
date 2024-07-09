@@ -1,0 +1,19 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.div {
+    background-color: aqua;
+    border-radius: 20px;
+    width: 60%;
+    
+  }
+.maindiv{
+    background-color: red;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
